@@ -1,6 +1,6 @@
 # VisibilitySprite
 
-This is a small godot addon that adds some functionality to the basic sprite class. It adds a (VisibilityNotifier2D)[https://docs.godotengine.org/en/stable/classes/class_visibilitynotifier2d.html] node and connects the screen_exited and screen_entered signals to show and hide the node.
+This is a small godot addon that adds some functionality to the basic sprite class. It adds a [VisibilityNotifier2D](https://docs.godotengine.org/en/stable/classes/class_visibilitynotifier2d.html) node and connects the screen_exited and screen_entered signals to show and hide the node.
 
 ## Caveats for usage
 
